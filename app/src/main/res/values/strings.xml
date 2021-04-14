@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseAndroidApp</string>
+    <string name="button_text">Click here to save data in Firebase Realtime Database</string>
+</resources>
